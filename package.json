@@ -1,0 +1,19 @@
+{
+  "name": "insta_api_for_posting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "instagram-private-api": "^1.41.0",
+    "jimp": "^0.14.0",
+    "nedb": "^1.8.0"
+  }
+}

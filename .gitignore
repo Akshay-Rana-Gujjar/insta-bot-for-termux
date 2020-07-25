@@ -1,0 +1,9 @@
+config.js
+*.zip
+saveLoginState.js
+test.js
+
+sessions/
+node_modules/
+db/
+test-scripts/

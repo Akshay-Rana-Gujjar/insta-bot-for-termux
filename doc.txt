@@ -1,0 +1,9 @@
+
+
+/*
+=== FEATURE ===
+    - make dir automtically and notify for dir created
+    - hashtag shuffling
+
+
+*/ 
